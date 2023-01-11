@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: mpotthar <mpotthar@student.42.fr>          +#+  +:+       +#+         #
+#    By: mpotthar <mpotthar@student.42wolfsburg.    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/12/12 18:42:35 by mpotthar          #+#    #+#              #
-#    Updated: 2023/01/02 12:53:57 by mpotthar         ###   ########.fr        #
+#    Updated: 2023/01/11 07:50:23 by mpotthar         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

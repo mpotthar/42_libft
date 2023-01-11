@@ -3,16 +3,16 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mpotthar <mpotthar@student.42.fr>          +#+  +:+       +#+        */
+/*   By: mpotthar <mpotthar@student.42wolfsburg.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/16 09:21:28 by mpotthar          #+#    #+#             */
-/*   Updated: 2023/01/02 12:27:35 by mpotthar         ###   ########.fr       */
+/*   Updated: 2023/01/11 07:47:46 by mpotthar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-// The ft_atoi function converts the initial portion of the string pointed 
+// The ft_atoi function converts the initial portion of the string pointed
 // to by *str to int. 
 int	ft_atoi(const char *str)
 {
